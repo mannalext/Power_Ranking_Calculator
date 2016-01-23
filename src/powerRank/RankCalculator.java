@@ -6,6 +6,7 @@ public class RankCalculator {
 		// TODO Auto-generated method stub
 
 		//hello from windows
+		//hello from mac
 	}
 
 }
